@@ -1,0 +1,6 @@
+= Period Analysis (Visual Basic)
+
+This is the software used in my Senior Honor's Thesis.
+It is currently very disordered as I'm trying to find 
+all the code that has been on different media.
+
